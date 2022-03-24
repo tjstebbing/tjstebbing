@@ -14,7 +14,7 @@ Hi there 👋 I'm a hands-on technical leader, systems architect and engineer wi
   <h4>Product Lead at Dogecoin Foundation</h4>  
 </div>
 
-I'm currently serving as a Director, Product Lead and Developer Advocate for the [Dogecoin Foundation](https://foundation.dogecoin.com), the not-for-profit organisation tasked with governance and advocacy for the [Dogecoin](https://dogecoin.com).  Started as a joke in 2008 to make light-hearted fun of Crypto, Dogecoin has grown into a global movement to create a viable digital currency, by the people, for the people. 
+I'm currently serving as a Director, Product Lead and Developer Advocate for the [Dogecoin Foundation](https://foundation.dogecoin.com), the not-for-profit organisation tasked with governance and advocacy for [Dogecoin](https://dogecoin.com).  Started as a joke in 2008 to make light-hearted fun of Crypto, Dogecoin has grown into a global movement to create a viable digital currency, by the people, for the people. 
 
 Fiercely decentralised and opensource, the Dogecoin Community rallies around our commitment to Do Only Good Everyday. Have a read of the [Dogecoin Manifesto](https://foundation.dogecoin.com/manifesto/) and take a look at our [Project Trailmap](https://foundation.dogecoin.com/trailmap/prologue/) to see what we're up to. 
 
