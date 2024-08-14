@@ -9,6 +9,6 @@
  
 <div align="center">  
 MOST DOGECOIN FDN DEVELOPMENT HAS MOVED TO RADICLE DECENTRALISED HOSTING <br/>
-Find me at 👾 radicle: z6MkozkxV6t71Q1bvkkAUfjLpBcypBpyCLdjWRAuZJAknfXm<br/>
-https://radicle.xyz
+https://code.dogecoin.org <br/><br/>
+My radicle key 👾: z6MkozkxV6t71Q1bvkkAUfjLpBcypBpyCLdjWRAuZJAknfXm<br/>
 </div>
